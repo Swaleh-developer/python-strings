@@ -1,0 +1,4 @@
+ourStudents = ["Swaleh","Jabir","Suheila","Saida"]
+userInput = input("What's your name: \n")
+ourStudents.append("{}",format(userInput)) #can also use 'ourStudents.append(userInput)'
+print(ourStudents)
